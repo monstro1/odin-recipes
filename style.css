@@ -6,7 +6,7 @@
 :root {
 	--pri-txt: #ddd;
 	--dark-bg: #111;
-	--pri-font: Arial, "DejaVu Sans", sans-serif;
+	--pri-font: "DejaVu Sans", Arial, sans-serif;
 }
 
 html {
