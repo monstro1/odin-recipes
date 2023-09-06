@@ -17,3 +17,7 @@ body {
 	background-color: var(--dark-bg);
 	color: var(--pri-txt);
 }
+
+h1 {
+	margin: 0.67em auto;
+}
