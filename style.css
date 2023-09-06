@@ -75,4 +75,5 @@ section {
 	background-color: var(--light-bg);
 	box-shadow: 3px 3px var(--shadow);
 	padding: 1em;
+	margin-bottom: 1em;
 }
