@@ -70,3 +70,8 @@ figure img {
 	width: 400px;
 	max-width: 90%;
 }
+
+section {
+	background-color: var(--light-bg);
+	box-shadow: 3px 3px var(--shadow);
+}
