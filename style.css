@@ -76,4 +76,6 @@ section {
 	box-shadow: 3px 3px var(--shadow);
 	padding: 1em;
 	margin: 1em auto;
+	width: 85%;
+	max-width: 60em;
 }
