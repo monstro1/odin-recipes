@@ -60,8 +60,9 @@ nav li {
 	list-style-type: none;
 }
 
+/* section content selector */
 ul, ol, section > p {
-	padding-left: 40px;
+	padding: 0 40px;
 	margin: 1em 0;
 }
 
