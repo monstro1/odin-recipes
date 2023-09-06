@@ -11,6 +11,8 @@
 	--link-normal: #6af;
 	--link-hover: #8cf;
 	--link-active: #dff;
+	--light-bg: #333;
+	--shadow: #00000080;
 }
 
 html {
