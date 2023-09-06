@@ -43,3 +43,7 @@ nav {
 	font-size: 1.5em;
 	text-align: center;
 }
+
+nav li {
+	margin: 0.25em auto;
+}
