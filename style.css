@@ -65,7 +65,7 @@ ul, ol, section > p {
 	margin: 1em 0;
 }
 
-nav ul {
+#main-list {
 	padding-left: 0;
 	margin: 0;
 }
