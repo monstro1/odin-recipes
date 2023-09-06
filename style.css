@@ -26,3 +26,15 @@ h1 {
 	text-align: center;
 	font-size: 2.5em;
 }
+
+a {
+	color: var(--link-normal);
+	text-decoration: none;
+}
+a:hover {
+	color: var(--link-hover);
+	text-decoration: underline;
+}
+a:active {
+	color: var(--link-active);
+}
