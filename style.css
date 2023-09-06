@@ -6,7 +6,8 @@
 :root {
 	--pri-txt: #ddd;
 	--dark-bg: #111;
-	--pri-font: "DejaVu Sans", Arial, sans-serif;
+	--pri-font: "DejaVu Serif", "Times New Roman", serif;
+	--sec-font: "DejaVu Sans", Arial, sans-serif;
 	--link-normal: #6af;
 	--link-hover: #8cf;
 	--link-active: #dff;
