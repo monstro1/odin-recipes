@@ -22,11 +22,14 @@ body {
 	color: var(--pri-txt);
 }
 
+h1, h2 {
+	font-family: var(--sec-font);
+}
+
 h1 {
 	margin: 0.67em auto;
 	text-align: center;
 	font-size: 2.5em;
-	font-family: var(--sec-font);
 }
 
 a {
