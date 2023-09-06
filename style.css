@@ -50,7 +50,9 @@ a:active {
 	color: var(--link-active);
 }
 
-nav {
+#main-list {
+	padding-left: 0;
+	margin: 0;
 	font-size: 1.5em;
 	text-align: center;
 }
@@ -65,11 +67,6 @@ ul, ol, section > p {
 	padding: 0 40px;
 	margin: 1em 0;
 	text-align: justify;
-}
-
-#main-list {
-	padding-left: 0;
-	margin: 0;
 }
 
 figure{
