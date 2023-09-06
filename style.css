@@ -50,3 +50,9 @@ nav li {
 	margin: 0.25em auto;
 	list-style-type: none;
 }
+
+figure{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
