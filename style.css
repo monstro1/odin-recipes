@@ -60,7 +60,7 @@ nav li {
 	list-style-type: none;
 }
 
-ul, ol {
+ul, ol, section > p {
 	padding-left: 40px;
 	margin: 1em 0;
 }
