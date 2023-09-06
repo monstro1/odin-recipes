@@ -7,6 +7,9 @@
 	--pri-txt: #ddd;
 	--dark-bg: #111;
 	--pri-font: "DejaVu Sans", Arial, sans-serif;
+	--link-normal: #88f;
+	--link-hover: #ccf;
+	--link-active: #ddf;
 }
 
 html {
